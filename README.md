@@ -10,7 +10,8 @@ AI声明：此程序包含AI生成的内容
 
 然后安装'miniaudio'库
 
-'''pip install miniaudio
+'''bash
+pip install miniaudio
 '''
 
 安装完后直接运行main.py即可。
