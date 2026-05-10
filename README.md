@@ -10,7 +10,7 @@ AI声明：此程序包含AI生成的内容
 
 然后安装'miniaudio'库
 
-'''bash
+'''python
 pip install miniaudio
 '''
 
